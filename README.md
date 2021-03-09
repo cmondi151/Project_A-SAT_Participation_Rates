@@ -1,4 +1,4 @@
-### Colin Mondi - SAT Participation Rates
+## Colin Mondi - SAT Participation Rates
 
 ### Problem Statement
 
